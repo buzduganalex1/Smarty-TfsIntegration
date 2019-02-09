@@ -1,0 +1,10 @@
+C:\Users\abuzduga\Source\Repos\TFSClient\TFSClient\bin\Debug\netcoreapp2.2\TFSClient.deps.json
+C:\Users\abuzduga\Source\Repos\TFSClient\TFSClient\bin\Debug\netcoreapp2.2\TFSClient.runtimeconfig.json
+C:\Users\abuzduga\Source\Repos\TFSClient\TFSClient\bin\Debug\netcoreapp2.2\TFSClient.runtimeconfig.dev.json
+C:\Users\abuzduga\Source\Repos\TFSClient\TFSClient\bin\Debug\netcoreapp2.2\TFSClient.dll
+C:\Users\abuzduga\Source\Repos\TFSClient\TFSClient\bin\Debug\netcoreapp2.2\TFSClient.pdb
+C:\Users\abuzduga\Source\Repos\TFSClient\TFSClient\obj\Debug\netcoreapp2.2\TFSClient.csproj.CoreCompileInputs.cache
+C:\Users\abuzduga\Source\Repos\TFSClient\TFSClient\obj\Debug\netcoreapp2.2\TFSClient.AssemblyInfoInputs.cache
+C:\Users\abuzduga\Source\Repos\TFSClient\TFSClient\obj\Debug\netcoreapp2.2\TFSClient.AssemblyInfo.cs
+C:\Users\abuzduga\Source\Repos\TFSClient\TFSClient\obj\Debug\netcoreapp2.2\TFSClient.dll
+C:\Users\abuzduga\Source\Repos\TFSClient\TFSClient\obj\Debug\netcoreapp2.2\TFSClient.pdb
